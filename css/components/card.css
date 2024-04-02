@@ -1,0 +1,48 @@
+.cards {
+	padding : 0px;
+	display: flex;
+	margin: 5px;
+	align-items: center; 
+	justify-content: space-around;
+	flex-grow: 1;
+	flex-wrap: wrap;
+
+}
+
+.card {
+	padding : 20px;
+	display: flex;
+	background-color: #B1B7A1;
+	margin: 20px;
+	align-items: center; 
+	box-shadow: 0px 10px 20px #343516;
+	border-radius: 10px;
+	flex-basis: 600px;
+	flex-grow: 1;
+
+}
+
+.card img {
+	border-radius: 10px;
+	margin-top: 2px;
+	margin-right: 80px;
+}
+
+.card #wtfu {
+	width: 100px;
+	padding-right: 0px;
+	margin-right: 0px;
+
+}
+
+.card #licty {
+	width: 400px;
+
+}
+
+
+ 
+.txtimg {
+	width: 250px;
+	text-align: center;
+}

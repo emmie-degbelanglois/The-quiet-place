@@ -1,0 +1,16 @@
+.btn-loc {
+	background-color: #9e6c5a;
+	color: white;
+	padding: 10px;
+	border-radius: 4px;
+	opacity: 80%;
+	font-weight: bold;
+	margin : 20px;
+	margin-bottom: 80px;
+	padding-top: 190px;
+	padding-bottom: 190px;
+}
+
+a:hover {
+	background-color: #343A13;
+}
